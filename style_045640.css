@@ -1,0 +1,33 @@
+body{
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.resume{
+    max-width: 1100px;
+    margin: auto;
+    display: flex;
+    gap: 40px;
+    border: 1px solid gray;
+}
+.sidebar{
+    padding: 30px;
+    background-color: rgb(158, 207, 250);
+    color: white;
+}
+.sidebar h4{
+    text-transform: uppercase;
+}
+.sidebar img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.main-content{
+    padding: 20px;
+}
+.main-content h2{
+    text-transform: uppercase;
+}
+.experience-section h4{
+    color: gray;
+}
